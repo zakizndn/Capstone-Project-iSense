@@ -10,11 +10,16 @@ Our gas leakage detection system incorporates advanced sensors, such as the MQ6 
 
 Through the development of this product, we aim to provide a reliable and efficient gas leakage detection solution that addresses the concerns and needs of customers. By focusing on key aspects such as performance, durability, and ease of use, our product strives to enhance safety and mitigate the risks associated with gas leaks in various settings.
 
+#### Summary 
+<img width="512" alt="Screenshot 2023-07-23 at 12 18 18 PM" src="https://github.com/zakizndn/Capstone_Project/assets/117178074/3c42a42d-53ba-4c7c-b374-ec699cba554d">
+
 ## Demo
-https://www.youtube.com/watch?v=Q_Y4aVkScIs
+[Prototype Conditions](https://www.youtube.com/watch?v=Q_Y4aVkScIs)
+
+[Notification Alerts Using Blynk](https://www.youtube.com/watch?v=CxGI0Fob8W8)
 
 ## Capstone Project Showcase
-[Poster.pdf](https://github.com/zakizndn/Capstone_Project/files/12137983/Poster.pdf){:target="_blank"} 
+[Poster](https://github.com/zakizndn/Capstone_Project/files/12137983/Poster.pdf)
 
 ## Final Report
-[Assignment.pdf](https://github.com/zakizndn/Capstone_Project/files/12137987/Assignment.pdf){:target="_blank"} 
+[Report](https://github.com/zakizndn/Capstone_Project/files/12137987/Assignment.pdf)
