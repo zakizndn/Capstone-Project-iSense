@@ -14,7 +14,7 @@ Through the development of this product, we aim to provide a reliable and effici
 https://www.youtube.com/watch?v=Q_Y4aVkScIs
 
 ## Capstone Project Showcase
-[Poster.pdf](https://github.com/zakizndn/Capstone_Project/files/12137983/Poster.pdf)
+[Poster.pdf](https://github.com/zakizndn/Capstone_Project/files/12137983/Poster.pdf){:target="_blank"} 
 
 ## Final Report
-[Assignment.pdf](https://github.com/zakizndn/Capstone_Project/files/12137987/Assignment.pdf)
+[Assignment.pdf](https://github.com/zakizndn/Capstone_Project/files/12137987/Assignment.pdf){:target="_blank"} 
