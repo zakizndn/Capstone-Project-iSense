@@ -2,7 +2,7 @@
 
 EPE3016 - Capstone Project
 
-Smart Products Design Using Sensors.
+Smart Products Design Using Sensors. 
 
 The problem statement revolves around the need for an effective and reliable gas leakage detection system to ensure safety in various environments. Existing products in the market often lack the desired level of performance, durability, and ease of use. To address this, our product aims to provide a solution that stands out by offering enhanced performance, increased product durability, and improved ease of use.
 
