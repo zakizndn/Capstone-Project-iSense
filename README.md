@@ -18,10 +18,9 @@ Through the development of this product, we aim to provide a reliable and effici
 <img width="512" alt="Screenshot 2023-07-23 at 12 18 18 PM" src="https://github.com/zakizndn/Capstone_Project/assets/117178074/3c42a42d-53ba-4c7c-b374-ec699cba554d">
 
 ## Demo
-[Prototype Conditions](https://www.youtube.com/watch?v=Q_Y4aVkScIs){:target="_blank"}
+[Prototype Conditions](https://www.youtube.com/watch?v=Q_Y4aVkScIs)
 
-[Notification Alerts Using Blynk](https://www.youtube.com/watch?v=CxGI0Fob8W8){:target="_blank"}
+[Notification Alerts Using Blynk](https://www.youtube.com/watch?v=CxGI0Fob8W8)
 
 ## Capstone Project Showcase
-[Poster](https://github.com/zakizndn/Capstone_Project/files/12137983/Poster.pdf){:target="_blank"}
-
+[Poster](https://github.com/zakizndn/Capstone_Project/files/12137983/Poster.pdf)
